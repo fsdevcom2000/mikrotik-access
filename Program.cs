@@ -313,7 +313,10 @@ class Program
     {
         Console.WriteLine("""
 MikroTik Access Trigger
-
+                          
+Author: fsdevcom2000
+Github: https://github.com/fsdevcom2000/mikrotik-access
+                          
 Sends two TCP connection attempts to trigger MikroTik access rules.
 
 Usage:
