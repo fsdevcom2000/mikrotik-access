@@ -145,9 +145,10 @@ The two knock ports do not need to provide any actual service. Their purpose is 
 
 The published executable is self-contained and does not require a separate .NET runtime.
 
-## License
+# License 
 
-MIT
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 # MikroTik Access Trigger
 
@@ -289,6 +290,6 @@ TCP SYN -> порт 12345
 
 > Убедитесь, что правило `accept` для WinBox находится выше соответствующего правила `drop` в цепочке firewall filter.
 
-## Лицензия
+# Лицензия
 
-MIT
+Этот проект распространяется под лицензией MIT. Подробные условия лицензии приведены в файле [LICENSE](LICENSE).
