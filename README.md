@@ -1,4 +1,4 @@
-[🇬🇧 English](README.md) | [🇷🇺 Русский](README.ru.md)
+[🇷🇺 Русский](README.ru.md)
 
 # MikroTik Access Trigger
 
