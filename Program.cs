@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using System.Net;
 using System.Net.Sockets;
@@ -313,11 +313,12 @@ class Program
     {
         Console.WriteLine("""
 MikroTik Access Trigger
-                          
-Author: fsdevcom2000
-Github: https://github.com/fsdevcom2000/mikrotik-access
-                          
+
 Sends two TCP connection attempts to trigger MikroTik access rules.
+
+Author: fsdevcom2000
+GitHub: https://github.com/fsdevcom2000/mikrotik-access-trigger
+
 
 Usage:
   mikrotik-access.exe [options]
